@@ -30,3 +30,12 @@ Usage:
 ```
 ./print_terms --terms="PATH_TO_TERMS_FILE"
 ```
+
+### Build
+
+```
+mkdir -p build
+cd build
+cmake ..
+make
+```
