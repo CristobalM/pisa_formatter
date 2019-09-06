@@ -2,7 +2,7 @@
 
 ### Executables
 
-**pisa_formatter**: converts list of documents to the pisa-engine binary format: {.docs, .freqs, .sizes}.
+**pisa_formatter**: converts list of documents to the [pisa-engine](https://github.com/pisa-engine/pisa) binary format: {.docs, .freqs, .sizes}.
 Its input should be a text file where each line is a document.
  Each document starts with the document name (which should not have whitespaces) followed by a list of ascii terms separated by whitespaces which define the document.
 
